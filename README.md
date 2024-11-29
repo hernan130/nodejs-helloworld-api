@@ -13,8 +13,6 @@ git clone https://github.com/edgaregonzalez/nodejs-helloworld-api.git
 ```bash
 npm install
 ```
-hola desafio_2
-
 ### Run the tests
 ```bash
 npm test
